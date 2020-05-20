@@ -1,0 +1,2 @@
+rootProject.name='AndroidmyPostsApp'
+include ':app'
